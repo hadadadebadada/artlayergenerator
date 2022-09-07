@@ -341,23 +341,6 @@ module.exports = {
         },
 
         {
-            name: "EyesOutside",
-            probability: 1.0,
-            options: [
-                {
-                    name: "Flames",
-                    file: "eyes_outside/eyes_outside.png",
-                    weight: 1
-                },
-                {
-                    name: "Black",
-                    file: "eyes_outside/eyesoutside_black.png",
-                    weight: 1
-                },
-            ]
-        },
-
-        {
             name: "Nose",
             probability: 0.01,
             options: [
@@ -457,11 +440,11 @@ module.exports = {
                     file: "top/winter_head.png",
                     weight: 0.2
                 },
-                {
+/*                 {
                     name: "Like A Sir",
                     file: "top/zylinder_blank.png",
                     weight: 0.3
-                },
+                }, */
 
                 /* -----------------------------------------------------TEST------------------------------------------------------------------------ */
               /*   {
@@ -578,7 +561,14 @@ module.exports = {
                     file: "eyes/vendetta_eyes.png",
                     weight: 1
                 },
-                {
+/*                 {
+                    name: "3D",
+                    file: "eyes/new/neweyes.png",
+                    weight: 1
+                }, */
+
+
+              /*   {
                     name: "Long Beard",
                     file: "eyes/vendetta_eyes1.png",
                     weight: 0.25
@@ -662,7 +652,9 @@ module.exports = {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes17.png",
                     weight: 1
-                }, 
+                },  */
+
+
 /*                 {
                     name: "Square Shades",
                     file: "eyes/vr1.png",
@@ -680,6 +672,196 @@ module.exports = {
                 },  */
             ]
         },
+
+        {
+            name:"InnerEyes",
+            probability:1,
+            options:[
+                {
+                               
+                    name: "3D",
+                    file: "eyes/new/neweyes.png",
+                    weight: 1
+                
+                 },
+
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/innerEyesMoon.png",
+                    weight: 1
+                
+                },
+
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (3).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (4).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (5).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (6).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (7).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (8).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (9).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (10).png",
+                    weight: 1
+                
+                },
+/*                 {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (11).png",
+                    weight: 1
+                
+                }, */
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (12).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (13).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (14).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (15).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (16).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (17).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (18).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (19).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (20).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (21).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (22).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/new/Copy of FirstVendetta (23).png",
+                    weight: 1
+                
+                },
+
+        ]
+        },
+
+
+/*         {
+            name: "EyesOutside",
+            probability: 1.0,
+            options: [
+                {
+                    name: "Flames",
+                    file: "eyes_outside/eyes_outside.png",
+                    weight: 1
+                },
+                {
+                    name: "Black",
+                    file: "eyes_outside/eyesoutside_black.png",
+                    weight: 1
+                },
+            ]
+        }, */
+
 
         {
             name: "Eyebrows",
