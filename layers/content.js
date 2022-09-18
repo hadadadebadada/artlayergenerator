@@ -12,6 +12,175 @@ module.exports = {
             probability: 1.0,
             options: [
                 {
+                    name: "art",
+                    file: "background/art_bg.png",
+                    weight: 1
+                },
+                {
+                    name: "beach",
+                    file: "background/beach.png",
+                    weight: 1
+                },
+                {
+                    name: "circle",
+                    file: "background/circle.png",
+                    weight: 1
+                },
+                {
+                    name: "city",
+                    file: "background/city.png",
+                    weight: 1
+                },
+                {
+                    name: "city2",
+                    file: "background/city2.png",
+                    weight: 1
+                },
+                {
+                    name: "city3",
+                    file: "background/city3.png",
+                    weight: 1
+                },
+                {
+                    name: "fire1",
+                    file: "background/fire1.png",
+                    weight: 1
+                },
+                {
+                    name: "fire2",
+                    file: "background/fire2.png",
+                    weight: 1
+                },
+                {
+                    name: "forest",
+                    file: "background/forest.png",
+                    weight: 1
+                },
+                {
+                    name: "forest2",
+                    file: "background/forest2.png",
+                    weight: 1
+                },
+                {
+                    name: "halfcircle",
+                    file: "background/halfcircle.png",
+                    weight: 1
+                },
+                {
+                    name: "island_bg",
+                    file: "background/island_bg.png",
+                    weight: 1
+                },
+                {
+                    name: "japan",
+                    file: "background/japan.png",
+                    weight: 1
+                },
+                {
+                    name: "japan2",
+                    file: "background/japan2.png",
+                    weight: 1
+                },
+                {
+                    name: "japan3",
+                    file: "background/japan3.png",
+                    weight: 1
+                },
+                {
+                    name: "japan4",
+                    file: "background/japan4.png",
+                    weight: 1
+                },
+
+
+
+              {
+                    name: "rainbow",
+                    file: "background/rainbow.png",
+                    weight: 1
+                },
+
+                {
+                    name: "universe2",
+                    file: "background/universe2.png",
+                    weight: 1
+                },
+
+
+               {
+                    name: "rainbow4",
+                    file: "background/rainbow4.png",
+                    weight: 1
+                },
+
+           
+             {
+                    name: "universe",
+                    file: "background/universe.png",
+                    weight: 1
+                },
+                {
+                    name: "tron",
+                    file: "background/tron.png",
+                    weight: 1
+                },   
+                {
+                    name: "mountains",
+                    file: "background/mountains.png",
+                    weight: 1
+                },
+                {
+                    name: "mountains2",
+                    file: "background/mountains2.png",
+                    weight: 1
+                },  
+                {
+                    name: "math_bg",
+                    file: "background/math_bg.png",
+                    weight: 1
+                },
+                {
+                    name: "tajmahal",
+                    file: "background/tajmahal.png",
+                    weight: 1
+                },    
+                {
+                    name: "universe_bg",
+                    file: "background/universe_bg.png",
+                    weight: 1
+                },
+                {
+                    name: "rainbow2",
+                    file: "background/rainbow2.png",
+                    weight: 1
+                },
+                {
+                    name: "rainbow3",
+                    file: "background/rainbow3.png",
+                    weight: 1
+                },  
+
+                 {
+                    name: "rects",
+                    file: "background/rects.png",
+                    weight: 1
+                },
+                {
+                    name: "ticket",
+                    file: "background/ticket.png",
+                    weight: 1
+                },
+                {
+                    name: "japan6",
+                    file: "background/japan6.png",
+                    weight: 1
+                },
+                {
+                    name: "window",
+                    file: "background/window.png",
+                    weight: 1
+                },
+                {
                     name: "Orange",
                     file: "background/orange_bg.png",
                     weight: 1
@@ -26,6 +195,7 @@ module.exports = {
                     file: "background/heart_bg.png",
                     weight: 1
                 },
+
             ]
         },
 
@@ -33,233 +203,252 @@ module.exports = {
             name: "Body",
             probability: 1.0,
             options: [
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/body.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/bag.png",
-//                     weight:1
-//                 },
-// /*                 {
-//                     name:"BodyTest",
-//                     file:"body/ganster.png",
-//                     weight:1
-//                 }, */
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/hoodie1.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/hoodie2.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/hoodie3.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/hoodie4.png",
-//                     weight:1
-//                 },
-//    /*              {
-//                     name:"BodyTest",
-//                     file:"body/hoodie5.png",
-//                     weight:1
-//                 }, */
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/meditatiton.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money2.png",
-//                     weight:1
-//                 },
-//    /*              {
-//                     name:"BodyTest",
-//                     file:"body/money3.png",
-//                     weight:1
-//                 }, */
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money4.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money5.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money6.png",
-//                     weight:1
-//                 },
-//     /*             {
-//                     name:"BodyTest",
-//                     file:"body/money7.png",
-//                     weight:1
-//                 }, */
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money8.png",
-//                     weight:1
-//                 },
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/money9.png",
-//                     weight:1
-//                 },
-// /*                 {
-//                     name:"BodyTest",
-//                     file:"body/skeleton.png",
-//                     weight:1
-//                 }, */
-//                 {
-//                     name:"BodyTest",
-//                     file:"body/typ1.png",
-//                     weight:1
-//                 },
+
+                                {
+                    name:"BodyTest",
+                    file:"body/new/blue_fighter.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/japan1.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/japan2.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/japan3.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/japan4.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/kimono.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/kimono2.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/red_fighter.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/red_fighter2.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/new/woman.png",
+                    weight:1
+                },
+
+
+                {
+                    name:"BodyTest",
+                    file:"body/bag.png",
+                    weight:1
+                },
+
+                {
+                    name:"BodyTest",
+                    file:"body/hoodie1.png",
+                    weight:1
+                },
+
+                {
+                    name:"BodyTest",
+                    file:"body/hoodie3.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/hoodie4.png",
+                    weight:1
+                },
+   /*              {
+                    name:"BodyTest",
+                    file:"body/hoodie5.png",
+                    weight:1
+                }, */
+                {
+                    name:"BodyTest",
+                    file:"body/meditatiton.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/money.png",
+                    weight:1
+                },
+
+
+                {
+                    name:"BodyTest",
+                    file:"body/money4.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/money5.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/money6.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/money7.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/money8.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/money9.png",
+                    weight:1
+                },
+
 
 /* <--------------------------------------------------------------> IN TESTING <------------------------------------------------------------------>*/
 
 
                 {
                     name:"BodyTest",
-                    file:"body/new/armor.png",
+                    file:"body/armor.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/armor2.png",
+                    file:"body/armor2.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/armor3.png",
+                    file:"body/armor3.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/artist.png",
+                    file:"body/artist.png",
                     weight:1
                 },
-/*                 {
-                    name:"BodyTest",
-                    file:"body/new/assassin.png",
-                    weight:1
-                }, */
+
                 {
                     name:"BodyTest",
-                    file:"body/new/astronaut.png",
+                    file:"body/astronaut.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/beekeeper.png",
+                    file:"body/beekeeper.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/bodybuilder.png",
+                    file:"body/bodybuilder.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/bodybuilder2.png",
-                    weight:1
-                },
-/*                 {
-                    name:"BodyTest",
-                    file:"body/new/convict.png",
-                    weight:1
-                }, */
-                {
-                    name:"BodyTest",
-                    file:"body/new/doctor1.png",
-                    weight:1
-                },
-/*                 {
-                    name:"BodyTest",
-                    file:"body/new/doctor2.png",
-                    weight:1
-                }, */
-                {
-                    name:"BodyTest",
-                    file:"body/new/doctor3.png",
+                    file:"body/bodybuilder2.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/firefighter.png",
+                    file:"body/convict.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/football.png",
+                    file:"body/doctor1.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/football2.png",
+                    file:"body/doctor2.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/pimp.png",
+                    file:"body/doctor3.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/rapper.png",
+                    file:"body/firefighter.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/soldier.png",
-                    weight:1
-                },
-/*                 {
-                    name:"BodyTest",
-                    file:"body/new/soldier2.png",
-                    weight:1
-                }, */
-                {
-                    name:"BodyTest",
-                    file:"body/new/suit.png",
+                    file:"body/football.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/suit2.png",
+                    file:"body/football2.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/suit3.png",
+                    file:"body/pimp.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/suit4.png",
+                    file:"body/rapper.png",
                     weight:1
                 },
                 {
                     name:"BodyTest",
-                    file:"body/new/suit5.png",
+                    file:"body/soldier.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/soldier2.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/suit.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/suit2.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/suit3.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/suit4.png",
+                    weight:1
+                },
+                {
+                    name:"BodyTest",
+                    file:"body/suit5.png",
                     weight:1
                 },
 
@@ -272,57 +461,81 @@ module.exports = {
             options: [
                 {
                     name: "Albino",
-                    file: "head/standard_mask.png",
+                    file: "head/standard_mask2.png",
                     weight: 1
                 },
-/*                 {
-                    name: "Light",
-                    file: "head/head_bee.png",
-                    weight: 1
-                },
-                {
-                    name: "Mid",
-                    file: "head/head_heart.png",
-                    weight: 1
-                },
-                {
-                    name: "Skeleton",
-                    file: "head/head_trippy.png",
-                    weight: 1
-                },
-                {
-                    name: "Zombie",
-                    file: "head/head_vintage.png",
-                    weight: 1
-                },
-                {
-                    name: "Wall",
-                    file: "head/head_wall.png",
-                    weight: 1
-                }, 
-                {
-                    name: "Weed",
-                    file: "head/head_weed.png",
-                    weight: 0.2
-                },*/
 
             ]
         },
+
         {
-            name: "Cheeks",
-            probability: 1,
+            name: "Facial Tats",
+            probability: 1.0,
             options: [
+/*                 {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes1.png",
+                    weight: 1
+                }, */
                 {
-                    name: "Standard",
-                    file: "cheeks/cheekz.png",
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_black.png",
                     weight: 1
                 },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_blueweb.png",
+                    weight: 0.05
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_leo.png",
+                    weight: 0.05
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_stripes.png",
+                    weight: 0.05
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_trippy.png",
+                    weight: 0.05
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_warning.png",
+                    weight: 0.05
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_brownyellow.png",
+                    weight: 0.5
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_grey.png",
+                    weight: 0.5
+                },
+                {
+                    name: "Albino",
+                    file: "facial_tats/facial_tattoes_greydark.png",
+                    weight: 0.5
+                },
+
+            ]
+        },
+
+        {
+            name: "Eyebrows",
+            probability: 1,
+            options: [
 /*                 {
-                    name:"BodyTest",
-                    file:"body/lion_body.png",
-                    weight:1
-                }, */
-  /*               {
+                    name: "3D",
+                    file: "eyebrows/eyebrows0.png",
+                    weight: 1
+                },
+                {
                     name: "Long Beard",
                     file: "eyebrows/eyebrows1.png",
                     weight: 0.25
@@ -337,8 +550,80 @@ module.exports = {
                     file: "eyebrows/eyebrows3.png",
                     weight: 1
                 }, */
+                {
+                    name: "4",
+                    file: "eyebrows/eyebrows4.png",
+                    weight: 1
+                },
+                {
+                    name: "5",
+                    file: "eyebrows/eyebrows5.png",
+                    weight: 1
+                },
+                {
+                    name: "6",
+                    file: "eyebrows/eyebrows6.png",
+                    weight: 1
+                },
+                {
+                    name: "7",
+                    file: "eyebrows/eyebrows7.png",
+                    weight: 1
+                },
+                {
+                    name: "8",
+                    file: "eyebrows/eyebrows8.png",
+                    weight: 1
+                },
+                {
+                    name: "9",
+                    file: "eyebrows/eyebrows9.png",
+                    weight: 1
+                },
+                {
+                    name: "10",
+                    file: "eyebrows/eyebrows10.png",
+                    weight: 1
+                },
+
+
+            ]
+            
+        },  
+/*         {
+            name: "Cheeks",
+            probability: 1,
+            options: [
+                {
+                    name: "Standard",
+                    file: "cheeks/cheekz.png",
+                    weight: 1
+                },
             ]
         },
+
+        {
+            name: "EyesOutside",
+            probability: 1.0,
+            options: [
+                {
+                    name: "Flames",
+                    file: "eyes_outside/eyes_outside.png",
+                    weight: 1
+                },
+                {
+                    name: "Black",
+                    file: "eyes_outside/eyesoutside_black.png",
+                    weight: 1
+                },
+                {
+                    name: "Black",
+                    file: "eyes_outside/eyesoutside_weed.png",
+                    weight: 1
+                },
+            ]
+        },
+
 
         {
             name: "Nose",
@@ -349,37 +634,18 @@ module.exports = {
                     file: "nose/nose0.png",
                     weight: 0.2
                 },
-/*                 {
-                    name: "Pinata",
-                    file: "nose/nose1.png",
-                    weight: 0.4
-                },
-                {
-                    name: "Purple Blue Pink",
-                    file: "nose/nose2.png",
-                    weight: 1
-                },
-                {
-                    name: "Stripes White",
-                    file: "nose/nose3.png",
-                    weight: 1
-                },
-                {
-                    name: "Stripes Blue White",
-                    file: "nose/nose4.png",
-                    weight: 1
-                },
-                {
-                    name: "Blue White",
-                    file: "nose/nose5.png",
-                    weight: 1
-                }, */
             ]
-        },
+        }, */
         {
             name: "Top",
             probability: 1,
             options: [
+
+ /*                              {
+                    name: "Cap",
+                    file: "top/new/face.png",
+                    weight: 1
+                }, */
                 {
                     name: "Cap",
                     file: "top/hair0.png",
@@ -388,22 +654,22 @@ module.exports = {
                 {
                     name: "Cowboy",
                     file: "top/basque_pink.png",
-                    weight: 0.5
+                    weight: 1
                 },
                 {
                     name: "Einstein",
                     file: "top/brown_hat.png",
-                    weight: 0.1
+                    weight: 1
                 },
                 {
                     name: "Fez",
                     file: "top/green_cap.png",
-                    weight: 0.2
+                    weight: 1
                 },
                 {
                     name: "Like A Sir",
                     file: "top/grey_hat.png",
-                    weight: 0.3
+                    weight: 1
                 },
                 {
                     name: "Cap",
@@ -413,111 +679,90 @@ module.exports = {
                 {
                     name: "Cowboy",
                     file: "top/hair_pink_zopf.png",
-                    weight: 0.5
+                    weight: 1
                 },
                 {
                     name: "Einstein",
                     file: "top/hat_green.png",
-                    weight: 0.1
+                    weight: 1
                 },
                 {
                     name: "Fez",
                     file: "top/hat_green2.png",
-                    weight: 0.2
+                    weight: 1
                 },
                 {
                     name: "Like A Sir",
                     file: "top/hiar_blue_long.png",
-                    weight: 0.3
+                    weight: 1
                 },
                 {
                     name: "Einstein",
                     file: "top/schleife.png",
-                    weight: 0.1
+                    weight: 1
                 },
                 {
                     name: "Fez",
                     file: "top/winter_head.png",
-                    weight: 0.2
+                    weight: 1
                 },
-/*                 {
-                    name: "Like A Sir",
-                    file: "top/zylinder_blank.png",
-                    weight: 0.3
-                }, */
+
 
                 /* -----------------------------------------------------TEST------------------------------------------------------------------------ */
-              /*   {
-                    name: "Cap",
-                    file: "top/new/cook.png",
+                {
+                    name: "Fez",
+                    file: "top/new/1.png",
                     weight: 1
                 },
+                        
                 {
-                    name: "Cap",
-                    file: "top/new/google.png",
+                    name: "Fez",
+                    file: "top/new/4.png",
                     weight: 1
-                },
+                },                
                 {
-                    name: "Cap",
-                    file: "top/new/headset.png",
+                    name: "Fez",
+                    file: "top/new/5.png",
                     weight: 1
-                },
+                },                
                 {
-                    name: "Cap",
-                    file: "top/new/headset1.png",
+                    name: "Fez",
+                    file: "top/new/6.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/headset2.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/7.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/headset3.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/8.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/headset4.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/10.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/helmet.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/55.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/helmet2.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/99.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/helmet3.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/123.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/helmet4.png",
+                },                {
+                    name: "Fez",
+                    file: "top/new/321.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/helmet5.png",
+                },                
+/*                 {
+                    name: "Fez",
+                    file: "top/new/afro.png",
                     weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/mafia.png",
-                    weight: 1
-                },
-                {
-                    name: "Cap",
-                    file: "top/new/mafia2.png",
-                    weight: 1
-                }, */
-
+                },     */           
             ]
         },
         {
@@ -549,6 +794,26 @@ module.exports = {
                     file: "facial-hair/beard4.png",
                     weight: 1
                 },
+                {
+                    name: "Chops",
+                    file: "facial-hair/new/1.png",
+                    weight: 1
+                },
+                {
+                    name: "Chops",
+                    file: "facial-hair/new/3.png",
+                    weight: 1
+                },
+                {
+                    name: "Chops",
+                    file: "facial-hair/new/4.png",
+                    weight: 1
+                },
+                {
+                    name: "Chops",
+                    file: "facial-hair/new/45.png",
+                    weight: 1
+                },
 
             ]
         },
@@ -556,19 +821,40 @@ module.exports = {
             name: "Eyes",
             probability: 1,
             options: [
+/*                 {
+                               
+                    name: "MODIFIED",
+                    file: "eyes/eyes_modified.png",
+                    weight: 1
+                
+                 }, */
                 {
-                    name: "3D",
-                    file: "eyes/vendetta_eyes.png",
+                    name: "Long Beard",
+                    file: "eyes/new/eyes_new_mask.png",
                     weight: 1
                 },
 /*                 {
                     name: "3D",
-                    file: "eyes/new/neweyes.png",
+                    file: "eyes/vendetta_eyes.png",
                     weight: 1
-                }, */
-
-
-              /*   {
+                },
+                {
+                    name: "3D",
+                    file: "eyes/neweyes.png",
+                    weight: 1
+                },
+ */
+                {
+                    name: "Long Beard",
+                    file: "eyes/vendetta_eyes_black.png",
+                    weight: 1
+                },
+                {
+                    name: "Long Beard",
+                    file: "eyes/vendetta_eyes_grey.png",
+                    weight: 1
+                },
+                {
                     name: "Long Beard",
                     file: "eyes/vendetta_eyes1.png",
                     weight: 0.25
@@ -576,12 +862,12 @@ module.exports = {
                 {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes2.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "3D",
                     file: "eyes/vendetta_eyes3.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "Long Beard",
@@ -591,12 +877,12 @@ module.exports = {
                 {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes5.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "3D",
                     file: "eyes/vendetta_eyes6.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "Long Beard",
@@ -606,12 +892,12 @@ module.exports = {
                 {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes8.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "3D",
                     file: "eyes/vendetta_eyes9.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "Long Beard",
@@ -621,12 +907,12 @@ module.exports = {
                 {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes11.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "3D",
                     file: "eyes/vendetta_eyes12.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "Long Beard",
@@ -636,12 +922,12 @@ module.exports = {
                 {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes14.png",
-                    weight: 1
+                    weight: 0.25
                 }, 
                 {
                     name: "3D",
                     file: "eyes/vendetta_eyes15.png",
-                    weight: 1
+                    weight: 0.25
                 },
                 {
                     name: "Long Beard",
@@ -651,25 +937,10 @@ module.exports = {
                 {
                     name: "Square Shades",
                     file: "eyes/vendetta_eyes17.png",
-                    weight: 1
-                },  */
+                    weight: 0.25
+                }, 
 
 
-/*                 {
-                    name: "Square Shades",
-                    file: "eyes/vr1.png",
-                    weight: 1
-                }, 
-                {
-                    name: "Square Shades",
-                    file: "eyes/vr2.png",
-                    weight: 1
-                }, 
-                {
-                    name: "Square Shades",
-                    file: "eyes/vr3.png",
-                    weight: 1
-                },  */
             ]
         },
 
@@ -677,10 +948,11 @@ module.exports = {
             name:"InnerEyes",
             probability:1,
             options:[
-                {
+
+/*                 {
                                
                     name: "3D",
-                    file: "eyes/new/neweyes.png",
+                    file: "eyes/neweyes.png",
                     weight: 1
                 
                  },
@@ -688,7 +960,7 @@ module.exports = {
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/innerEyesMoon.png",
+                    file: "eyes/innerEyesMoon.png",
                     weight: 1
                 
                 },
@@ -696,199 +968,159 @@ module.exports = {
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (3).png",
+                    file: "eyes/Copy of FirstVendetta (3).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (4).png",
+                    file: "eyes/Copy of FirstVendetta (4).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (5).png",
+                    file: "eyes/Copy of FirstVendetta (5).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (6).png",
+                    file: "eyes/Copy of FirstVendetta (6).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (7).png",
+                    file: "eyes/Copy of FirstVendetta (7).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (8).png",
+                    file: "eyes/Copy of FirstVendetta (8).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (9).png",
+                    file: "eyes/Copy of FirstVendetta (9).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (10).png",
+                    file: "eyes/Copy of FirstVendetta (10).png",
                     weight: 1
                 
                 },
-/*                 {
+
+                {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (11).png",
+                    file: "eyes/Copy of FirstVendetta (12).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/Copy of FirstVendetta (13).png",
+                    weight: 1
+                
+                },
+                {
+                                
+                    name: "3D",
+                    file: "eyes/Copy of FirstVendetta (14).png",
                     weight: 1
                 
                 }, */
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (12).png",
+                    file: "eyes/Copy of FirstVendetta (15).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (13).png",
+                    file: "eyes/Copy of FirstVendetta (16).png",
+                    weight: 1
+                
+                },
+   /*              {
+                                
+                    name: "3D",
+                    file: "eyes/Copy of FirstVendetta (17).png",
+                    weight: 1
+                
+                }, */
+                {
+                                
+                    name: "3D",
+                    file: "eyes/Copy of FirstVendetta (18).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (14).png",
+                    file: "eyes/Copy of FirstVendetta (19).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (15).png",
+                    file: "eyes/Copy of FirstVendetta (20).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (16).png",
+                    file: "eyes/Copy of FirstVendetta (21).png",
                     weight: 1
                 
                 },
                 {
                                 
                     name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (17).png",
+                    file: "eyes/Copy of FirstVendetta (22).png",
                     weight: 1
                 
                 },
-                {
-                                
-                    name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (18).png",
-                    weight: 1
-                
-                },
-                {
-                                
-                    name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (19).png",
-                    weight: 1
-                
-                },
-                {
-                                
-                    name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (20).png",
-                    weight: 1
-                
-                },
-                {
-                                
-                    name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (21).png",
-                    weight: 1
-                
-                },
-                {
-                                
-                    name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (22).png",
-                    weight: 1
-                
-                },
-                {
-                                
-                    name: "3D",
-                    file: "eyes/new/Copy of FirstVendetta (23).png",
-                    weight: 1
-                
-                },
+
 
         ]
-        },
-
-
-/*         {
-            name: "EyesOutside",
-            probability: 1.0,
-            options: [
-                {
-                    name: "Flames",
-                    file: "eyes_outside/eyes_outside.png",
-                    weight: 1
-                },
-                {
-                    name: "Black",
-                    file: "eyes_outside/eyesoutside_black.png",
-                    weight: 1
-                },
-            ]
-        }, */
-
-
+        },      
         {
-            name: "Eyebrows",
-            probability: 1,
+            name: "Glasses",
+            probability: 0.2,
             options: [
                 {
+                    name: "Long Beard", // glasses
+                    file: "eyes/new/1.png",
+                    weight: 1
+                },
+                {
+                                
                     name: "3D",
-                    file: "eyebrows/eyebrows0.png",
+                    file: "eyes/Copy of FirstVendetta (23).png",
                     weight: 1
+                
                 },
-                {
-                    name: "Long Beard",
-                    file: "eyebrows/eyebrows1.png",
-                    weight: 0.25
-                },
-                {
-                    name: "Square Shades",
-                    file: "eyebrows/eyebrows2.png",
-                    weight: 1
-                },
-                {
-                    name: "Square",
-                    file: "eyebrows/eyebrows3.png",
-                    weight: 1
-                },
+
             ]
-            
         },
   
     ]

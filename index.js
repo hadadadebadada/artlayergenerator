@@ -13,6 +13,7 @@ async function generateNFTs(num, layersPath, outputPath) {
 
     for (let tokenId=0; tokenId<num; tokenId++) {
         console.log(`Generating NFT #${tokenId} …`)
+        console.log(layersPath);
         let selection = randomlySelectLayers(layersPath, content.layers)
         const traitsStr = JSON.stringify(selection.selectedTraits)
 
@@ -36,6 +37,7 @@ async function generateNFTs(num, layersPath, outputPath) {
 function generateMetadata(content, tokenId, traits) {
     attributes = []
     for (const [trait_type, value] of Object.entries(traits)) {
+        console.log(trait_type, value),
         attributes.push({trait_type, value})
     }
 
